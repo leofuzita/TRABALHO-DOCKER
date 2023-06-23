@@ -7,5 +7,5 @@ Seguir os seguintes passos:<br/>
 2 - docker build -t leofuzita/docker-bira:1.0 .<br/>
 3 - docker push leofuzita/docker-bira:1.0<br/>
 4 - docker pull leofuzita/docker-bira:1.0<br/>
-5 - docker container run --name  -p -d  hiagoht/trab-docker:1.0<br/>
+5 - docker container run --name docker-bira -p -d leofuzita/docker-bira:1.0<br/>
 6 - docker inspect CONTAINER ID<br/>

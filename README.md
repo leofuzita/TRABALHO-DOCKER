@@ -9,3 +9,4 @@ Seguir os seguintes passos:<br/>
 4 - docker pull leofuzita/docker-bira:1.0<br/>
 5 - docker container run --name docker-bira -p -d leofuzita/docker-bira:1.0<br/>
 6 - docker inspect CONTAINER ID<br/>
+7 - usar o endereço que está em "IPAddress": "172.17.0.12"
